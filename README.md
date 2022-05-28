@@ -11,4 +11,4 @@ MouseCatch App does not collect any personal information or usage metrics. At no
 This Privacy Policy may be updated from time to time. I will notify you of any changes by updating this Privacy Policy, and if the changes are significant by mentioning them in the Release Notes.
 
 #### Contact
-If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at bisonmin@foxmail.com.
+If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at linkvint@gmail.com.
